@@ -11,7 +11,5 @@ Javascript Frameworks/Libraries: `React` `Express` `Passport` `Socket.IO` `Node`
 Components and UIs: `Material UI` `ANT design`<br>
 Databases: `MySQL` `MongoDB`<br>
 
-Familiar Tools: `VS code` `Git GitHub` `Vim` `Neovim`<br>
-
 ### 🛠️ Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,alpinejs,babel,bash,bootstrap,django,docker,express,figma,git,github,jest,linux,lua,md,mongodb,mysql,nginx,nodejs,npm,postman,py,react,redux,regex,sass,sublime,tailwind,ts,vite,vim,neovim,vscode,vscodium,wordpress,yarn,atom&perline=13)](https://skillicons.dev)
