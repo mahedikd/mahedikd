@@ -13,8 +13,6 @@ Databases: `MySQL` `MongoDB`<br>
 
 Familiar Tools: `VS code` `Git GitHub` `Vim` `Neovim`<br>
 
-<hr>
-
 ### 🛠️ Languages and Tools :
 <div>
    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
