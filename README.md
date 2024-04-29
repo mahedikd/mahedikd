@@ -14,4 +14,4 @@ Databases: `MySQL` `MongoDB`<br>
 Familiar Tools: `VS code` `Git GitHub` `Vim` `Neovim`<br>
 
 ### 🛠️ Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,alpinejs,babel,bash,blender,bootstrap,debian,django,docker,express,figma,git,github,heroku,jest,linux,lua,md,mongodb,mysql,neovim,netlify,nginx,nodejs,npm,postman,py,react,redux,regex,sass,sqlite,sublime,tailwind,ts,vim,vite,vscode,vscodium,wordpress,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,alpinejs,babel,bash,blender,bootstrap,django,docker,express,figma,git,github,jest,linux,lua,md,mongodb,mysql,nginx,nodejs,npm,postman,py,react,redux,regex,sass,sublime,tailwind,ts,vite,vim,neovim,vscode,vscodium,wordpress,yarn)](https://skillicons.dev)
