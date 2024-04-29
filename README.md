@@ -5,13 +5,13 @@ Currently, I'm working as a Full Stack developer at Jannat IT. Besides that, I l
 
 ### 😎 Skillset :
 
-Programming Languages: `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `Python` `Lua`  
+Programming Languages: `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `Python` `Lua`<br>
 CSS Frameworks/Libraries: `Bootstrap` `Tailwind`<br>
-Javascript Frameworks/Libraries: `React` `Express` `Passport` `Socket.IO` `Node` `Jest` `Vite`
-Components and UIs: `Material UI` `ANT design`
-Databases: `MySQL` `MongoDB`
+Javascript Frameworks/Libraries: `React` `Express` `Passport` `Socket.IO` `Node` `Jest` `Vite`<br>
+Components and UIs: `Material UI` `ANT design`<br>
+Databases: `MySQL` `MongoDB`<br>
 
-Familiar Tools: `VS code` `Git GitHub` `Vim` `Neovim` 
+Familiar Tools: `VS code` `Git GitHub` `Vim` `Neovim`<br>
 
 <hr>
 
