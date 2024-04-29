@@ -7,16 +7,11 @@ Currently, I'm working as a Full Stack developer at Jannat IT. Besides that, I l
 
 Programming Languages: `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `Python` `Lua`  
 CSS Frameworks/Libraries: `Bootstrap` `Tailwind` 
-
 Javascript Frameworks/Libraries: `React` `Express` `Passport` `Socket.IO` `Node` `Jest` `Vite`
-
 Components and UIs: `Material UI` `ANT design`
-
 Databases: `MySQL` `MongoDB`
 
-Familiar with: 
-
-Tools: `VS code` `Git GitHub` `Vim` `Neovim` 
+Familiar Tools: `VS code` `Git GitHub` `Vim` `Neovim` 
 
 <hr>
 
