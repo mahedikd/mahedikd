@@ -19,7 +19,7 @@ Familiar with:
 Tools: `VS code` `Git GitHub` `Vim` `Neovim` 
 
 <hr>
-Neovim
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
