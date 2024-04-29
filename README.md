@@ -1,6 +1,6 @@
-### 🐼 About Me :
+### 👋 About Me:
 
-Currently, I'm working as a Full Stack developer at Jannat IT. Besides that, I love to develop my skills in Fullstack web development (MERN, Django). Other than that, I am a Freelance Web Developer at Fiverr.
+I'm a dedicated Full Stack Developer who currently works at Jannat IT. My experience is in full-stack web development, specifically the MERN stack and Django. I also work as a Freelance Web Developer, I enjoy working on a variety of projects and expanding my skill set.
 
 
 ### 😎 Skillset :
