@@ -15,4 +15,3 @@ Databases: `MySQL` `MongoDB`<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,alpinejs,babel,bash,bootstrap,django,docker,express,figma,git,github,jest,linux,lua,md,mongodb,mysql,nginx,nodejs,npm,postman,py,react,redux,regex,sass,sublime,tailwind,ts,vite,vim,neovim,vscode,vscodium,wordpress,yarn,atom&perline=13)](https://skillicons.dev)
 
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs?username=mahedikd&show_icons=true&locale=en&layout=compact) <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahedikd&card_width=360) <br>
