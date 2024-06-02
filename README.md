@@ -1,5 +1,3 @@
-### 👋 About Me:
-
 I'm a dedicated Full Stack Developer who currently works at Jannat IT. My experience is in full-stack web development, specifically the MERN stack and Django. I also work as a Freelance Web Developer, I enjoy working on a variety of projects and expanding my skill set.
 
 
