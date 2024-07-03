@@ -1,9 +1,9 @@
-I'm a dedicated Full Stack Developer who currently works at Jannat IT. My experience is in full-stack web development, specifically the MERN stack and Django. I also work as a Freelance Web Developer, I enjoy working on a variety of projects and expanding my skill set.
+I'm a full-stack web developer with experience in the MERN stack, working as a Freelance Web Developer. I enjoy taking on diverse projects and continuously expanding my skillset.
 
 
 ### 🧩 Skillset :
 
-Programming Languages: `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `Python` `Lua`<br>
+Programming and scripting languages: `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `Python` `Lua` `bash`<br>
 CSS Frameworks/Libraries: `Bootstrap` `Tailwind`<br>
 Javascript Frameworks/Libraries: `React` `Express` `Passport` `Socket.IO` `Node` `Jest` `Vite`<br>
 Components and UIs: `Material UI` `ANT design`<br>
