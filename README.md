@@ -44,7 +44,7 @@ I'm focused on building robust web applications. Experienced in JavaScript frame
     <b>📚 Additional Skills</b>
   </summary>
   <br>
-  <img src="https://skillicons.dev/icons?i=nginx,figma,jest,postman,markdown,regex,figma,git,github,linux,lua&perline=8" height=40  />
+  <img src="https://skillicons.dev/icons?i=nginx,figma,jest,postman,markdown,regex,figma,git,github,linux,lua" height=40  />
 </details>
 
 ### Most used language
