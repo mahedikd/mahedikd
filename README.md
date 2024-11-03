@@ -12,7 +12,7 @@ I'm focused on building robust web applications. Experienced in JavaScript frame
     <b>🔧 Core Technologies</b>
   </summary>
   <br>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python&size=25" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" height=40 />
 </details>
 
 <details open>
@@ -20,7 +20,7 @@ I'm focused on building robust web applications. Experienced in JavaScript frame
     <b>🎨 Frontend Development</b>
   </summary>
   <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwindcss,bootstrap,sass,redux&size=25" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwindcss,bootstrap,sass,redux" height=40 />
 </details>
 
 <details open>
@@ -28,7 +28,7 @@ I'm focused on building robust web applications. Experienced in JavaScript frame
     <b>⚙️ Backend & Database</b>
   </summary>
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,wordpress,mysql,mongodb,prisma,nginx,docker&size=25" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,wordpress,mysql,mongodb,prisma,nginx,docker" height=40  />
 </details>
 
 <details open>
@@ -36,7 +36,7 @@ I'm focused on building robust web applications. Experienced in JavaScript frame
     <b>🛠️ Development Tools</b>
   </summary>
   <br>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,neovim,linux,bash,vite,jest&size=25" />
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,neovim,linux,bash,vite,jest" height=40 />
 </details>
 
 <details open>
@@ -44,7 +44,7 @@ I'm focused on building robust web applications. Experienced in JavaScript frame
     <b>📚 Additional Skills</b>
   </summary>
   <br>
-  <img src="https://skillicons.dev/icons?i=nginx,figma,jest,postman,markdown,regex,figma,git,github,linux,lua&size=25&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nginx,figma,jest,postman,markdown,regex,figma,git,github,linux,lua&perline=8" height=40  />
 </details>
 
 ### Most used language
