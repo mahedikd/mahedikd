@@ -39,7 +39,7 @@ I'm focused on building robust web applications. Experienced in JavaScript frame
   <img src="https://skillicons.dev/icons?i=git,docker,vscode,neovim,linux,bash,vite,jest&size=25" />
 </details>
 <br>
-<details>
+<details open>
   <summary>
     <b>📚 Additional Skills</b>
   </summary>
