@@ -14,7 +14,7 @@ I'm focused on building robust web applications. Experienced in JavaScript frame
   <br>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python&size=25" />
 </details>
-<br>
+
 <details open>
   <summary>
     <b>🎨 Frontend Development</b>
@@ -22,7 +22,7 @@ I'm focused on building robust web applications. Experienced in JavaScript frame
   <br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwindcss,bootstrap,sass,redux&size=25" />
 </details>
-<br>
+
 <details open>
   <summary>
     <b>⚙️ Backend & Database</b>
@@ -30,7 +30,7 @@ I'm focused on building robust web applications. Experienced in JavaScript frame
   <br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,wordpress,mysql,mongodb,prisma,nginx,docker&size=25" />
 </details>
-<br>
+
 <details open>
   <summary>
     <b>🛠️ Development Tools</b>
@@ -38,7 +38,7 @@ I'm focused on building robust web applications. Experienced in JavaScript frame
   <br>
   <img src="https://skillicons.dev/icons?i=git,docker,vscode,neovim,linux,bash,vite,jest&size=25" />
 </details>
-<br>
+
 <details open>
   <summary>
     <b>📚 Additional Skills</b>
