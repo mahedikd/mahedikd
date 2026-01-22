@@ -47,7 +47,7 @@
 
 - **[MSGUS](https://msgus.devitum.com/)** – A unified team inbox for Facebook and WhatsApp integration.
 - **[Simple Scraper](https://github.com/mahedikd/simple-scraper)** – A high-performance web scraper built for efficiency and speed.
-- **[Devitum](https://devitum.com)** – Personal hub for engineering projects.
+- **[Devitum](https://devitum.com)** – Custom business solutions for modern enterprises.
 
 ---
 
