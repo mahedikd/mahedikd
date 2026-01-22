@@ -1,52 +1,58 @@
-![👋 Hi, I'm](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+# 👋 Hello, I'm Mahedi
 
-<div align="center"> <h1>👋 Hello, I'm Mahedi</h1><h3>👨‍💻 Full-Stack Developer</h3> </div>
+<div align="center">
+  <h3>👨‍💻 Full-Stack Developer</h3>
+  <p>I build robust web applications and backend systems with a focus on performance and maintainability. Currently leveling up my expertise in Go and System Design.</p>
+</div>
 
-### About Me
-I'm focused on building robust web applications. Experienced in JavaScript frameworks and backend systems, with a track record of delivering scalable solutions for complex technical challenges. Experienced in both independent development and team collaboration.
+---
 
-### Technical Expertise
+### 🛠️ Technical Stack
 
-<details open>
-  <summary>
-    <b>🔧 Core Technologies</b>
-  </summary>
-  <br>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" height=40 />
-</details>
+**Core & Backend**
 
-<details open>
-  <summary>
-    <b>🎨 Frontend Development</b>
-  </summary>
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwindcss,bootstrap,sass,redux" height=40 />
-</details>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,typescript,js,nodejs,bun,express,prisma,mongodb,postgres" height="40" />
+  </a>
+</p>
 
-<details open>
-  <summary>
-    <b>⚙️ Backend & Database</b>
-  </summary>
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,wordpress,mysql,mongodb,prisma,nginx,docker" height=40  />
-</details>
+**Frontend & Design**
 
-<details open>
-  <summary>
-    <b>🛠️ Development Tools</b>
-  </summary>
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,neovim,linux,bash,vite,jest" height=40 />
-</details>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,bootstrap,html,css,figma" height="40" />
+  </a>
+</p>
 
-<details open>
-  <summary>
-    <b>📚 Additional Skills</b>
-  </summary>
-  <br>
-  <img src="https://skillicons.dev/icons?i=nginx,figma,jest,postman,markdown,regex,figma,git,github,linux,lua" height=40  />
-</details>
+**Infrastructure & Tools**
 
-### Most used language
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,git,github,postman,jest,vite,neovim,bash,vscode" height="40" />
+  </a>
+</p>
 
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedikd&theme=react&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=440" alt="Most Used Languages" /> </div>
+---
+
+### 📈 GitHub Insights
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedikd&theme=react&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=440" alt="Most Used Languages" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+- **[MSGUS](https://msgus.devitum.com/)** – A unified team inbox for Facebook and WhatsApp integration.
+- **[Simple Scraper](https://github.com/mahedikd/simple-scraper)** – A high-performance web scraper built for efficiency and speed.
+- **[Devitum](https://devitum.com)** – Personal hub for engineering projects.
+
+---
+
+### 🔭 Current Focus
+
+- Refining senior-level mastery in **Golang** and concurrency patterns.
+- Optimizing Linux-based infrastructure and automated deployments.
+- Building production-ready full-stack applications with **React** and **Tailwind**.
